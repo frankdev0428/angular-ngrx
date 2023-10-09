@@ -1,224 +1,27 @@
-Contribution: 2021-01-25 20:00
+## Simple Setup
 
-Contribution: 2021-01-25 20:01
+Run `npm install`
 
-Contribution: 2021-01-25 20:02
+## Development server
 
-Contribution: 2021-03-10 20:00
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-Contribution: 2021-03-10 20:01
+## Code scaffolding
 
-Contribution: 2021-03-10 20:02
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-Contribution: 2021-03-28 20:00
+## Build
 
-Contribution: 2021-03-28 20:01
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-Contribution: 2021-03-28 20:02
+## Running unit tests
 
-Contribution: 2021-04-23 20:00
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-Contribution: 2021-05-02 20:00
+## Running end-to-end tests
 
-Contribution: 2021-05-02 20:01
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-Contribution: 2021-05-09 20:00
+## Further help
 
-Contribution: 2021-06-03 20:00
-
-Contribution: 2021-06-03 20:01
-
-Contribution: 2021-06-05 20:00
-
-Contribution: 2021-06-05 20:01
-
-Contribution: 2021-06-21 20:00
-
-Contribution: 2021-07-01 20:00
-
-Contribution: 2021-07-01 20:01
-
-Contribution: 2021-07-01 20:02
-
-Contribution: 2021-07-29 20:00
-
-Contribution: 2021-08-24 20:00
-
-Contribution: 2021-09-01 20:00
-
-Contribution: 2021-09-01 20:01
-
-Contribution: 2021-09-03 20:00
-
-Contribution: 2021-09-03 20:01
-
-Contribution: 2021-09-03 20:02
-
-Contribution: 2021-09-06 20:00
-
-Contribution: 2021-09-23 20:00
-
-Contribution: 2021-09-23 20:01
-
-Contribution: 2021-09-23 20:02
-
-Contribution: 2021-10-02 20:00
-
-Contribution: 2021-10-02 20:01
-
-Contribution: 2021-10-02 20:02
-
-Contribution: 2021-11-22 20:00
-
-Contribution: 2021-11-26 20:00
-
-Contribution: 2021-11-26 20:01
-
-Contribution: 2021-12-03 20:00
-
-Contribution: 2021-12-03 20:01
-
-Contribution: 2021-12-03 20:02
-
-Contribution: 2022-01-03 20:00
-
-Contribution: 2022-01-22 20:00
-
-Contribution: 2022-01-22 20:01
-
-Contribution: 2022-01-22 20:02
-
-Contribution: 2022-03-10 20:00
-
-Contribution: 2022-04-11 20:00
-
-Contribution: 2022-05-22 20:00
-
-Contribution: 2022-05-29 20:00
-
-Contribution: 2022-06-02 20:00
-
-Contribution: 2022-06-02 20:01
-
-Contribution: 2022-06-02 20:02
-
-Contribution: 2022-06-06 20:00
-
-Contribution: 2022-06-06 20:01
-
-Contribution: 2022-06-12 20:00
-
-Contribution: 2022-06-12 20:01
-
-Contribution: 2022-06-29 20:00
-
-Contribution: 2022-06-29 20:01
-
-Contribution: 2022-07-19 20:00
-
-Contribution: 2022-07-19 20:01
-
-Contribution: 2022-07-30 20:00
-
-Contribution: 2022-07-30 20:01
-
-Contribution: 2022-07-30 20:02
-
-Contribution: 2022-08-13 20:00
-
-Contribution: 2022-08-13 20:01
-
-Contribution: 2022-08-13 20:02
-
-Contribution: 2022-08-21 20:00
-
-Contribution: 2022-08-21 20:01
-
-Contribution: 2022-08-21 20:02
-
-Contribution: 2022-10-10 20:00
-
-Contribution: 2022-10-10 20:01
-
-Contribution: 2022-10-27 20:00
-
-Contribution: 2022-10-27 20:01
-
-Contribution: 2022-10-27 20:02
-
-Contribution: 2022-10-29 20:00
-
-Contribution: 2022-10-29 20:01
-
-Contribution: 2022-11-25 20:00
-
-Contribution: 2022-12-04 20:00
-
-Contribution: 2022-12-04 20:01
-
-Contribution: 2022-12-04 20:02
-
-Contribution: 2022-12-15 20:00
-
-Contribution: 2022-12-19 20:00
-
-Contribution: 2022-12-19 20:01
-
-Contribution: 2023-01-21 20:00
-
-Contribution: 2023-01-21 20:01
-
-Contribution: 2023-03-10 20:00
-
-Contribution: 2023-03-10 20:01
-
-Contribution: 2023-03-17 20:00
-
-Contribution: 2023-03-17 20:01
-
-Contribution: 2023-03-17 20:02
-
-Contribution: 2023-04-12 20:00
-
-Contribution: 2023-04-12 20:01
-
-Contribution: 2023-04-15 20:00
-
-Contribution: 2023-04-15 20:01
-
-Contribution: 2023-04-15 20:02
-
-Contribution: 2023-04-20 20:00
-
-Contribution: 2023-04-20 20:01
-
-Contribution: 2023-05-07 20:00
-
-Contribution: 2023-05-07 20:01
-
-Contribution: 2023-05-25 20:00
-
-Contribution: 2023-05-25 20:01
-
-Contribution: 2023-05-25 20:02
-
-Contribution: 2023-06-27 20:00
-
-Contribution: 2023-06-27 20:01
-
-Contribution: 2023-06-27 20:02
-
-Contribution: 2023-07-22 20:00
-
-Contribution: 2023-07-24 20:00
-
-Contribution: 2023-08-03 20:00
-
-Contribution: 2023-08-03 20:01
-
-Contribution: 2023-08-03 20:02
-
-Contribution: 2023-09-17 20:00
-
-Contribution: 2023-09-24 20:00
-
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
